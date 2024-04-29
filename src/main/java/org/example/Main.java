@@ -23,7 +23,7 @@ public class Main {
         //System.out.printf("%.2f %.3f %.4f %.5f %.6f\nРешение аналитически: 0.665510", eighth(100), eighth(1000), eighth(10000), eighth(100000), eighth(1000000));
         //System.out.printf("%-10s %-10s%n" + nineth(100) + nineth(1000) + nineth(10000) + nineth(100000) + nineth(1000000) + "\nРешение аналитически:\na)0.0485735 б)0.205099", "a)", "б)");
         //!!!System.out.println(tenth(100,0.4,50) + " " + tenth(1000,0.4,50) +" " + tenth(10000,0.4,50)+ " " + tenth(100000,0.4,50)+ " " + tenth(1000000,0.4,50));
-        System.out.println(eleventh(100) + " " + eleventh(1000) +" " + eleventh(10000)+ " " + eleventh(100000)+ " " + eleventh(1000000));
+        System.out.println(eleventh(100) + " " + eleventh(1000) + " " + eleventh(10000) + " " + eleventh(100000) + " " + eleventh(1000000));
     }
 
     public static double second(int experiments) {
