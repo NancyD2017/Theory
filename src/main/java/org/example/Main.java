@@ -203,12 +203,9 @@ public class Main {
     }
 
     public static int eleventh(int experiments) {
-        int[] weightsSet1 = {1, 2, 2, 5, 10};
-        int[] weightsSet2 = {1, 2, 3, 4, 10};
-        int[] weightsSet3 = {1, 1, 2, 5, 10};
-        int needed1 = 0;
-        int needed2 = 0;
-        int needed3 = 0;
+        int[] weightsSet1 = {1, 1, 2, 2, 1, 2, 2, 3, 3, 1};
+        int[] weightsSet2 = {1, 1, 1, 1, 2, 2, 2, 3, 3, 1};
+        int[] weightsSet3 = {1, 1, 2, 3, 1, 2, 2, 3, 4, 1};
         for (int i = 0; i < experiments; i++) {
             int weightToWeigh = (int) (Math.random() * 10) + 1;
             int[] dp1 = new int[weightToWeigh + 1];
