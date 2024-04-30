@@ -238,6 +238,7 @@ public class Main {
             System.out.println(Arrays.toString(dp1));
             System.out.println(Arrays.toString(dp2));
             System.out.println(Arrays.toString(dp3));
+
         }
         return 1;
     }
