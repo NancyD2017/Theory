@@ -203,7 +203,7 @@ public class Main {
     }
 
     public static int eleventh(int experiments) {
-        int[] weightsSet1 = {1, 2, 2, 5, 10};
+        int[] weightsSet1 = {1, 1, 2, 2, 1, 2, 2, 3, 3, 1};
         int[] weightsSet2 = {1, 2, 3, 4, 10};
         int[] weightsSet3 = {1, 1, 2, 5, 10};
         int needed1 = 0;
