@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e592388-cfbe-4034-8b2c-f038fb21783c" name="Changes" comment="Co">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0e592388-cfbe-4034-8b2c-f038fb21783c" name="Changes" comment="initial1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +143,28 @@
       <option name="project" value="LOCAL" />
       <updated>1714399273680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial">
+      <created>1714400171968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714400171968</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial1">
+      <created>1714400277424</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714400277424</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initial1">
+      <created>1714400308153</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714400308153</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,17 +192,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Co" />
-    <option name="LAST_COMMIT_MESSAGE" value="Co" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>239</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="initial" />
+    <MESSAGE value="initial1" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial1" />
   </component>
 </project>
