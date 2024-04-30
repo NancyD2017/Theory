@@ -207,7 +207,7 @@ public class Main {
         int[] weightsSet2 = {1, 1, 1, 1, 2, 2, 2, 3, 3, 1};
         int[] weightsSet3 = {1, 1, 2, 3, 1, 2, 2, 3, 4, 1};
         for (int i = 0; i < experiments; i++) {
-            int weightToWeigh = (int) (Math.random() * 10);
+            int weightToWeigh = (int) (Math.random() * 10) + 1;
             int[] dp1 = new int[weightToWeigh + 1];
             int[] dp2 = new int[weightToWeigh + 1];
             int[] dp3 = new int[weightToWeigh + 1];
