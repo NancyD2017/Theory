@@ -205,7 +205,7 @@ public class Main {
     public static int eleventh(int experiments) {
         int[] weightsSet1 = {1, 1, 2, 2, 1, 2, 2, 3, 3, 1};
         int[] weightsSet2 = {1, 1, 1, 1, 2, 2, 2, 3, 3, 1};
-        int[] weightsSet3 = {1, 1, 2, 5, 10};
+        int[] weightsSet3 = {1, 1, 2, 3, 1, 2, 2, 3, 4, 1};
         int needed1 = 0;
         int needed2 = 0;
         int needed3 = 0;
