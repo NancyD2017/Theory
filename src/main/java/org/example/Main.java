@@ -35,9 +35,9 @@ public class Main {
                     System.out.printf("%-10s %-10s%n" + nineth(100) + nineth(1000) + nineth(10000) + nineth(100000) + nineth(1000000) + "\nРешение аналитически:\na)0.0485735 б)0.205099", "a)", "б)");
             case 10 -> {
                 tenth(1000, 0.4, 50);
-                //tenth(1000, 0.3, 50);
+                /*tenth(1000, 0.3, 50);
                 //tenth(1000, 0.2, 50);
-                //tenth(1000, 0.1, 50);
+                */tenth(1000, 0.1, 50);
             }
             case 11 ->
                     System.out.println(eleventh(100) + " " + eleventh(1000) + " " + eleventh(10000) + " " + eleventh(100000) + " " + eleventh(1000000) + "\nАналитическое решение: 2");
